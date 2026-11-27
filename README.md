@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, world ! 👋
 
 - **Les languages que j'apprend:** <br/> <br/>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
